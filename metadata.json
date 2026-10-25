@@ -1,0 +1,6 @@
+{
+  "name": "Production Flow Tracker",
+  "description": "Production Flow Tracker featuring public dashboard, authenticated workspace, batch delivery tracking, daily reports, and role-based controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
